@@ -2,7 +2,7 @@
    * Create By Dika Ardnt.
    * Recode By Naze Dev && Papah-Chan
    * Contact Me on wa.me/6282287219167
-   * Follow https://github.com/FahriAdison
+   * Follow https://github.com/amelcanss
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
+global.owner = ['6287833306677']
+global.ownernomer = "6287833306677"
+global.premium = ['6287833306677']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'Fahil-Botz'
 global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,8 +65,8 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
+global.botname = 'FAHIL BOTZ'
+global.akulaku = 'Bot By Fahil'
 global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
