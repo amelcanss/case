@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev && Papah-Chan
-   * Contact Me on wa.me/6282287219167
+   * Create By Fahil
+   * Recode By Fahil
+   * Contact Me on wa.me/6287833306677
    * Follow https://github.com/amelcanss
 */
 
